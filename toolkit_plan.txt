@@ -1,0 +1,31 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+1. MY THREE TOOLS
+
+Simple Calculator:
+This tool performs addition, subtraction, multiplication and division.
+
+To-Do List:
+This tool allows users to add, view and remove tasks.
+
+Number Guessing Game:
+This tool allows users to guess a secret number between 1 and 10.
+
+2. MENU TEXT
+
+WELCOME TO MY PYTHON TOOLKIT
+
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+
+3. PYTHON CONCEPTS USED
+
+- Variables: Store numbers, choices and tasks.
+- Input and output: Receive information from users and display results.
+- Conditionals: Use if, elif and else to make decisions.
+- Loops: Repeat menus and the guessing game.
+- Lists: Store and manage to-do tasks.
+- Functions: Organize the different tools.
+- F-strings: Display friendly messages and results.

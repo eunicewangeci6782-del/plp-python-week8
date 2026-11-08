@@ -1,0 +1,38 @@
+# My Python Week 8 Toolkit
+
+## Project Description
+
+My Python Toolkit is a menu-driven program that contains three useful tools. Users can select a tool, use it, and return to the main menu.
+
+## Tools Included
+
+1. Simple Calculator - Performs addition, subtraction, multiplication and division.
+2. To-Do List - Allows users to add, view and remove tasks.
+3. Number Guessing Game - Allows users to guess a secret number.
+
+## Python Concepts Used
+
+- Variables
+- Input and output
+- Conditional statements
+- While loops
+- For loops
+- Lists
+- Functions
+- F-strings
+
+## How to Run the Program
+
+1. Install Python 3.
+2. Open the project folder in VS Code.
+3. Open the terminal.
+4. Type `python toolkit.py`.
+5. Press Enter.
+
+## Screenshots
+
+Screenshots of the menu and all three tools are saved in the screenshots folder.
+
+## My Reflection
+
+Write 5-8 sentences explaining what you learned, which part was hardest, which bug took longest to fix, and what you would add with one more week.
